@@ -2,9 +2,23 @@
     background-color: aqua;
     padding: 10px;
 }
-.col-md-4{
-    border: 5px solid rgb(161, 206, 93);
+
+#pizzaimage
+{
+    width: 200px
 }
-.col-md-8{
-    border: 5px solid red;
+.hello {
+    font-family: fantasy;
+    font-size: larger;
+} 
+.myheading2{
+    background-color: lightskyblue;
+    padding: 10px;
+}
+#pizzamaking{
+    width: 200px
+}
+.hello2{
+    font-family: fantasy;
+    font-size: larger;
 }
